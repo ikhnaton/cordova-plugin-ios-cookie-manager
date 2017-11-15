@@ -5,9 +5,10 @@
 		<config-file target="config.xml" parent="/*">
 			<feature name="Cookie">
 				<param name="ios-package" value="Cookie" />
+				<param name="onload" value="true" />
 			</feature>
 		</config-file>
-		<header-file src="src/ios/hpd/Cookie.h" />
-		<source-file src="src/ios/hpd/Cookie.m" />
+		<header-file src="src/ios/Cookie.h" />
+		<source-file src="src/ios/Cookie.m" />
 	</platform>
 </plugin>
