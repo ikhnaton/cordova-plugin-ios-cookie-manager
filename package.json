@@ -1,0 +1,25 @@
+{
+  "name": "cordova-plugin-ios-cookie-manager",
+  "version": "0.0.1",
+  "description": "Plugin to get/set inappbrowser webview cookies",
+  "cordova": {
+    "id": "cordova-plugin-ios-cookie-manager",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ikhnaton/cordova-plugin-ios-cookie-manager.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "author": "ikhnaton@techie.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ikhnaton/cordova-plugin-ios-cookie-manager/issues"
+  },
+  "homepage": "https://github.com/ikhnaton/cordova-plugin-ios-cookie-manager#readme"
+}
