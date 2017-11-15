@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-ios-cookie-manager",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Plugin to get/set inappbrowser webview cookies",
   "cordova": {
     "id": "cordova-plugin-ios-cookie-manager",

@@ -7,7 +7,7 @@
 				<param name="ios-package" value="Cookie" />
 			</feature>
 		</config-file>
-		<header-file src="hpd/Cookie.h" />
-		<source-file src="hpd/Cookie.m" />
+		<header-file src="src/ios/hpd/Cookie.h" />
+		<source-file src="src/ios/hpd/Cookie.m" />
 	</platform>
 </plugin>
